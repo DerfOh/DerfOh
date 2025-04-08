@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello world!
+
+Welcome to my github profile, where I keep my coding projects and experiments. 
 
 <!--
 **DerfOh/DerfOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
